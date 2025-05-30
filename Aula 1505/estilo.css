@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap');
+h1{
+    color: blueviolet;
+    font-size: 150px;
+    font-style: italic;
+    font-family: "Tagesschrift", system-ui;;
+}
+
+div{
+    border: 2px solid red;
+    padding: 0px;
+}
+
+h2{
+    color: deeppink;
+}
