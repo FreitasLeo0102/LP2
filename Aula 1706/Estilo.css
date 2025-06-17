@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+}
+
+.conteudo-p1{
+    background-color: blue;
+    height: 400px;
+}
+
+.conteiner{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.conteudo-p2{
+    background-color: blueviolet;
+    }
+
+.interna1{
+    background-color: brown;
+    width: 300px;
+}
+
+.interna2{
+    background-color: chartreuse;
+    width: 300px;
+}
+
