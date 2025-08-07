@@ -1,3 +1,30 @@
+body{
+    background-color: rgba(144, 167, 176, 1);
+}
+
 .tudo{
     display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgb(0 0 0 / 16%) 0px 3px 6px, rgb(0 0 0 / 23%) 0px 3px 6px;
+}
+
+.parte-branca{
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding: 50px;
+}
+
+.logo img{
+    width: 350px;
+}
+
+.parte-azul{
+    background-color: #72B0CF;
+    display: block;
 }
